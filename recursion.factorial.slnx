@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="recursion.factorial/recursion.factorial.vcxproj" Id="bf84ea71-9b11-4db7-944d-4bfb7cccd892" />
+</Solution>
