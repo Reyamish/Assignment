@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="counting2/counting2.vcxproj" Id="4064be3f-7ef2-452a-80b6-d432b8610d12" />
+</Solution>
